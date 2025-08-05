@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-### 👋 Hello World, I'm Nazirul Ahsan Rokon<br><br>✨ Creating bugs since I started coding  <br>📚 Learning... since birth  <br>🎯 Goal: Learn something new every day  <br>🎲 Fun fact: I can sleep-code. Bugs guaranteed. <br>🧠 Personal Taglines / Bios<br>🔧 Developer Fun<br>👨‍💻 Typing { without knowing what comes next.<br>🐞 Professional bug creator. Occasionally fixes them.<br>🛠️ Turning coffee into code since [your start year].<br>🚧 Code in progress... forever.<br>⚙️ Debugging is my cardio.<br>🤖 AI whispered me this README.<br>⌨️ Writes code that compiles... eventually.</p>
+### 👋 Hello World, I'm Nazirul Ahsan Rokon<br><br>✨ Creating bugs since I started coding  <br>📚 Learning... since birth  <br>🎯 Goal: Learn something new every day  <br>🎲 Fun fact: I can sleep-code. Bugs guaranteed. <br>👨‍💻 Typing { without knowing what comes next.<br>🐞 Professional bug creator. Occasionally fixes them.<br>🛠️ Turning coffee into code since [your start year].<br>🚧 Code in progress... forever.<br>⚙️ Debugging is my cardio.<br>🤖 AI whispered me this README.<br>⌨️ Writes code that compiles... eventually.</p>
 
 ###
 
